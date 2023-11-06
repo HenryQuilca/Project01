@@ -9,7 +9,7 @@ print("----------------")
 from mi_primer_paquete.calculadora_cientifica import tangente
 print(tangente("Esta es mi tangente."))
 
-print("----------------")
+print("-------------------------------------------")
 
 # Mostraremos la suma hecha en el paquete: mi_segundo_paquete
 from mi_segundo_paquete.resultados_calculadora import resultado_suma
